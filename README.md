@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates an end-to-end Data Analytics workflow, starting from raw data processing to business insights visualization. The project involves data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, dashboard creation in Power BI, and presentation of findings through reports and presentations.
+This project demonstrates an end-to-end Data Analytics workflow, starting from raw data processing to business insights visualization. The project involves data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, dashboard creation in Power BI.
 
 The objective of this project is to transform raw data into meaningful insights that support data-driven decision-making.
 
@@ -36,13 +36,6 @@ The objective of this project is to transform raw data into meaningful insights 
 ### Visualization
 
 * Power BI
-
-### Documentation & Presentation
-
-* Microsoft Word
-* Gamma AI (Presentation Creation)
-
----
 
 ## Project Workflow
 
@@ -89,14 +82,6 @@ The objective of this project is to transform raw data into meaningful insights 
 * Developed KPIs and visual reports.
 * Added filters and slicers for better user interaction.
 
-### 6. Reporting & Presentation
-
-* Prepared analytical report summarizing findings.
-* Created professional presentation slides using Gamma AI.
-* Presented key business insights and recommendations.
-
----
-
 ## Dashboard Highlights
 
 * KPI Overview
@@ -114,7 +99,6 @@ The objective of this project is to transform raw data into meaningful insights 
 * Improved data quality through cleaning processes.
 * Generated actionable insights using SQL analysis.
 * Built an interactive dashboard for decision-making.
-* Delivered findings through reports and presentations.
 
 ---
 
@@ -124,8 +108,6 @@ The objective of this project is to transform raw data into meaningful insights 
 ├── Python Scripts/
 ├── SQL Queries/
 ├── Power BI Dashboard/
-├── Reports/
-├── Presentation/
 └── README.md
 
 ---
